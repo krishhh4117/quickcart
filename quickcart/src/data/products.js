@@ -1,19 +1,21 @@
 const products = [
   {
     id: 1,
-    name: "Smartphone",
-    description: "Latest 5G smartphone",
+    name: "Phone",
     price: 20000,
-    category: "Electronics",
-    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9"
+    image: "https://picsum.photos/200?1"
   },
   {
     id: 2,
+    name: "Laptop",
+    price: 50000,
+    image: "https://picsum.photos/200?2"
+  },
+  {
+    id: 3,
     name: "Headphones",
-    description: "Noise cancelling headphones",
-    price: 3000,
-    category: "Accessories",
-    image: "https://images.unsplash.com/photo-1518444065439-e933c06ce9cd"
+    price: 2000,
+    image: "https://picsum.photos/200?3"
   }
 ];
 
